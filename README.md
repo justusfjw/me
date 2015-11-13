@@ -17,6 +17,6 @@ I am also involved in:
 - Deutschlandstiftung Integration (http://stiftung.geh-deinen-weg.org/)
 - I also have a bi weekly radio show, in which I get to talk about computers (http://www.multicult.fm/player)
 
-Enjoy my page and if you want just drop me an email under didi |at| ribalba |dot| de
+Enjoy my page and if you want just drop me an email [under](contact.md)
 
 Sorry for all the typos, but spelling has never been something I considered really worth my time. Some evil people say this also applies to remembering names. See spelling.md
