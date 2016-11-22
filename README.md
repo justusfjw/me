@@ -10,7 +10,9 @@ I am currently working on:
 - cd.uy (http://www.cd.uy)
 - Looking for new opportunities 
 
-Before that I was undertaking a PhD in Distributed Databases at the Technical University Berlin (DIMA) and am working on the MIA Project. My research mainly focused on “low level” distributed indexing of annotated information. Before that I completed my Bachelor at Bournemouth University and my Master at University College London both with a first class honors. If I am not hacking around in some program I like repairing cars (I have a beetle from 1970) and motor bikes, smoking cigars, reading news, real ale, snowboarding and of course traveling.
+Before that I was invovled in various start-ups. 
+
+My background is in undertaking a PhD in Distributed Databases at the Technical University Berlin (DIMA) and am working on the MIA Project. My research mainly focused on “low level” distributed indexing of annotated information. Before that I completed my Bachelor at Bournemouth University and my Master at University College London both with a first class honors. If I am not hacking around in some program I like repairing cars (I have a beetle from 1970) and motor bikes, smoking cigars, reading news, real ale, snowboarding and of course traveling.
 
 I am also involved in:
 
